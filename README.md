@@ -2,10 +2,10 @@
 My name is Buse Özcan, and for this project, I plan to work on my "Netflix Viewing History" data. This project aims to analyze the Netflix viewing history data using data analysis and  visualization.
 To construct a well-formed hypothesis, I will use data visualization techniques to:
 
-Plot viewing trends over time (daily, weekly, monthly, yearly).
-Create comparative visualizations (e.g., weekday vs. weekend activity).
-Develop heatmaps to showcase seasonal or day-specific viewing intensities.
-Visualize genre preferences using bar charts, pie charts, and word clouds.
+1) Plot viewing trends over time (daily, weekly, monthly, yearly).
+2) Create comparative visualizations (e.g., weekday vs. weekend activity).
+3) Develop heatmaps to showcase seasonal or day-specific viewing intensities.
+4) Visualize genre preferences using bar charts, pie charts, and word clouds.
 
 # Description of the Dataset 
 The data set that I'm using has information on the name of the show, the episode, and the date that I watched each specific content since 2020. I obtained the data from Netflix which lets the users download their data from their website in the format of an Excel(CSV) file. 
