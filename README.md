@@ -10,3 +10,8 @@ For this project, I aim to:
 2) Compare the data from weekdays versus weekends to explore any correlation with workload or busier schedules.
 3) To explore my how my viewing habits differ through seasons.
 4) To determine the length of binge-watching sessions.
+
+
+# Expected Outcomes
+
+By the end of this project I expect to gain a detailed understanding of my Netflix viewing habits and preferences. I know that I tend to stay at my comfort zone in the context of what I watch. By gaining a new detailed perpective of my viewing habits I plan to challenge myself with new genres and extend my taste in entertainment by exploring content that I might not have considered before. 
